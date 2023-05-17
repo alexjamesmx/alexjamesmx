@@ -1,16 +1,16 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Alex Santiago
+Wasa ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Alex Santiago
 =====================================================================================================================================
 
 Full Stack Developer
 --------------------
 
-Wasa, I love coding, is that description enough to get to the FAANG? 😎
+I love coding, is that description enough to get to the FAANG? 😎
 
 * 🌍  Based in México, Qro
 * ✉️  Contact me at [aledev.mx@gmail.com](mailto:aledev.mx@gmail.com)
 * 🧠  Learning AI/ML
-* 🤝  Open to collaborating on any interesting project
-* ⚡  Road to senior in 10 minutes
+* 🤝  Open to collaborate on any project
+* ⚡  The answer is a hash map 
 
 <a href="https://www.github.com/alexjamesmx" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/alexjamesmx?logo=github&style=for-the-badge&color=6366f1&labelColor=22272e" /></a>
