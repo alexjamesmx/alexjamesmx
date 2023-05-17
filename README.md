@@ -4,13 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer
 --------------------
 
-Wasa, I love coding, is there anything else I have to say? 😎
+Wasa, I love coding, is that description enough to get to the FAANG? 😎
 
-* 🌍  I'm based in México, Qro
-* ✉️  You can contact me at [aledev.mx@gmail.com](mailto:aledev.mx@gmail.com)
-* 🧠  I'm learning AI/ML
-* 🤝  I'm open to collaborating on Any interesting project
-* ⚡  Let's change the world
+* 🌍  Based in México, Qro
+* ✉️  Contact me at [aledev.mx@gmail.com](mailto:aledev.mx@gmail.com)
+* 🧠  Learning AI/ML
+* 🤝  Open to collaborating on any interesting project
+* ⚡  Road to senior in 10 minutes
 
 <a href="https://www.github.com/alexjamesmx" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/alexjamesmx?logo=github&style=for-the-badge&color=6366f1&labelColor=22272e" /></a>
@@ -54,6 +54,3 @@ src="https://img.shields.io/github/followers/alexjamesmx?logo=github&style=for-t
 
 <a href="http://www.github.com/alexjamesmx"><img src="https://github-readme-streak-stats.herokuapp.com/?user=alexjamesmx&stroke=ffffff&background=22272e&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/alexjamesmx"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=alexjamesmx&bg_color=22272e&color=ffffff&line=6366f1&point=ffffff&area_color=22272e&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/alexjamesmx" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexjamesmx&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=6366f1&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
