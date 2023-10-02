@@ -1,10 +1,10 @@
 [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Alexjamesmx
 =====================================================================================================================================
 
-Full Stack Developer
+Software engineer
 --------------------
 
-I love coding, is that description enough to get to the FAANG? 😎
+Creating a better world
 
 * 🌍  Based in México, Qro
 * ✉️  Contact me at [aledev.mx@gmail.com](mailto:aledev.mx@gmail.com)
