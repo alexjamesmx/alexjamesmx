@@ -8,9 +8,8 @@ Creating a better world
 
 * 🌍  Based in México, Qro
 * ✉️  Contact me at [aledev.mx@gmail.com](mailto:aledev.mx@gmail.com)
-* 🧠  Learning AI/ML
-* 🤝  Open to collaborate on any project
-* ⚡  The answer is a hash map 
+* 🧠  AI/ML, back/front
+* 🤝  Open to collaborate on any project   
 
 <a href="https://www.github.com/alexjamesmx" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/alexjamesmx?logo=github&style=for-the-badge&color=6366f1&labelColor=22272e" /></a>
