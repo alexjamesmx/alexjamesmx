@@ -1,15 +1,14 @@
 [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Alexjamesmx
 =====================================================================================================================================
 
-Software engineer
+Software engineer - ML/AI
 --------------------
 
 Creating a better world
 
-* 🌍  Based in México, Qro
-* ✉️  Contact me at [aledev.mx@gmail.com](mailto:aledev.mx@gmail.com)
-* 🧠  AI/ML, back/front
-* 🤝  Open to collaborate on any project   
+* 🌍  México, Qro
+* ✉️  [aledev.mx@gmail.com](mailto:aledev.mx@gmail.com)
+* 🤝  Open to collaborate   
 
 <a href="https://www.github.com/alexjamesmx" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/alexjamesmx?logo=github&style=for-the-badge&color=6366f1&labelColor=22272e" /></a>
