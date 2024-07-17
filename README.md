@@ -4,7 +4,7 @@
 Mobile, web & AI Developer
 --------------------
 
-Building innovative solutions. Fullstack development
+Building innovative solutions. Embracing new tecnologies
 
 * 🌍  México, Qro
 * ➡️  [Media and portfolio](https://alexjamesmx.dev/tree/)
