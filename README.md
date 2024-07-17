@@ -4,10 +4,10 @@
 Mobile, web & AI Developer
 --------------------
 
-Creating a better world
+Building innovative solutions. Fullstack development
 
 * 🌍  México, Qro
-* ✉️  [aledev.mx@gmail.com](mailto:aledev.mx@gmail.com)
+* ➡️  [Media and portfolio](https://alexjamesmx.dev/tree/)
 * 🤝  Open to collaborate   
 
 <a href="https://www.github.com/alexjamesmx" target="_blank" rel="noreferrer"><img
