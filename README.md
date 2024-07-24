@@ -3,8 +3,8 @@ Full Stak & AI Developer
 
 Building innovative solutions. Embracing new tecnologies
 
-* 🌍  México, Qro
-* ➡️  [Media and portfolio](https://alexjamesmx.dev/tree/)
+* 🌍  Mexico
+* ➡️  [Media and portfolio](https://alexjamesmx.dev/)
 * 🤝  Open to collaborate   
 
 <a href="https://www.github.com/alexjamesmx" target="_blank" rel="noreferrer"><img
