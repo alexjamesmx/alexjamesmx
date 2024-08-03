@@ -9,7 +9,9 @@ Hey I'm Alex 👾
 
 </p>
 
+<div align="center"> 
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCcoEuHR-gnDLqAgN4w27WOw)
+</div>
 
 <div align="center">
 <h2 align="center">
