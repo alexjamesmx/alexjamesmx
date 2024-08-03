@@ -36,7 +36,7 @@ Hey I'm Alex 👾
   </tr>
   <tr>
       <td>
-        <h2 align="center">Programming languages </h2>
+        <h2 align="center">Languages </h2>
         <div align="left">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
