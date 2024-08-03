@@ -14,7 +14,9 @@ Hey I'm Alex 👾
 
 
 <div align="center">
-### Programming languages
+<h2 align="center">
+Programming languages
+</h2>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
@@ -31,7 +33,11 @@ Hey I'm Alex 👾
 </div>
 
 <div align="center">
-### Frameworks
+  <h2 align="center">
+
+ Frameworks
+</h2>
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="30" alt="angular logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30" alt="jquery logo"  />
