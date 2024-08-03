@@ -11,13 +11,15 @@ Hey I'm Alex 👾
 🤝  Open to collaborate   
 
 
-<img align="right" height="150" src="https://c.tenor.com/NVx58dJDqrAAAAAC/geometry-dash.gif" />
 
 <div align="left">
   
 [![YouTube](https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge)](https://www.youtube.com/channel/UCJlUWE-Q9a_X2EZgpyazF5A)
 [![Instagram](https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge)](https://www.instagram.com/alexjamesmx)
 [![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:aledev.mx@gmail.com)
+
+<img align="right" height="150" src="https://c.tenor.com/NVx58dJDqrAAAAAC/geometry-dash.gif" />
+
   
 </div>
 
