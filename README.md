@@ -36,8 +36,8 @@ Hey I'm Alex 👾
   </tr>
   <tr>
       <td>
+        <h2 align="center">Programming languages</h2>
               <div align="left">
-                Programming languages
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
@@ -53,19 +53,21 @@ Hey I'm Alex 👾
               </div>
       </td>
       <td>
-      <div align="left">
-            Frameworks
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-          <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" height="30" alt="angular logo"  />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30" alt="jquery logo"  />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" height="30" alt="astro logo"  />
-          <img width="12" />
-          <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" height="30" alt="express logo"  />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nexjs logo"  />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo"  />
-          <img src="https://github.com/devicons/devicon/blob/master/icons/codeigniter/codeigniter-plain.svg" height="30" alt="codeigniter logo"  />
-          <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo"  />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
+          <h2 align="center">Frameworks</h2>
+          <div align="left">
+                Frameworks
+              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+              <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" height="30" alt="angular logo"  />
+              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30" alt="jquery logo"  />
+              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" height="30" alt="astro logo"  />
+              <img width="12" />
+              <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" height="30" alt="express logo"  />
+              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nexjs logo"  />
+              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo"  />
+              <img src="https://github.com/devicons/devicon/blob/master/icons/codeigniter/codeigniter-plain.svg" height="30" alt="codeigniter logo"  />
+              <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo"  />
+              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
+          </div>
       </td>
   </tr>
 </table>
