@@ -2,12 +2,15 @@
 Hey I'm Alex 👾
 </h1>
 
-<p align="center">
+<div align="center">
 🌍  Mexico
-* ➡️  [Media and portfolio](https://alexjamesmx.dev/)
-* 🤝  Open to collaborate   
+  
+* ➡️ [Media and portfolio](https://alexjamesmx.dev/)     
 
-</p>
+* 🤝  Open to collaborate   
+</div>
+
+[Media and portfolio](https://alexjamesmx.dev/)
 
 <div align="center"> 
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCcoEuHR-gnDLqAgN4w27WOw)
