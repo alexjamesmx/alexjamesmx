@@ -9,8 +9,10 @@ Hey I'm Alex 👾
 * 🤝  Open to collaborate   
 
 </div>
-<a href="https://www.github.com/alexjamesmx" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/alexjamesmx?logo=github&style=for-the-badge&color=6366f1&labelColor=22272e" /></a>
+
+<a href="https://www.github.com/alexjamesmx" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/github/followers/alexjamesmx?logo=github&style=for-the-badge&color=6366f1&labelColor=22272e" /></a>
+
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCcoEuHR-gnDLqAgN4w27WOw)
 
 ### Skills
