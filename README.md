@@ -79,9 +79,8 @@ Programming languages
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
   
 </div>
-### Badges
 
-<b>My GitHub Stats</b>
+<h2>My GitHub Stats</h2>
 
 <a href="http://www.github.com/alexjamesmx"><img src="https://github-readme-stats.vercel.app/api?username=alexjamesmx&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=6366f1&bg_color=22272e&hide_border=true&show_icons=true" alt="alexjamesmx's GitHub stats" /></a>
 
