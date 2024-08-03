@@ -10,6 +10,9 @@ Hey I'm Alex 👾
 
 🤝  Open to collaborate   
 
+
+<img align="right" height="150" src="https://c.tenor.com/NVx58dJDqrAAAAAC/geometry-dash.gif" />
+
 <div align="left">
   
 [![YouTube](https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge)](https://www.youtube.com/channel/UCJlUWE-Q9a_X2EZgpyazF5A)
