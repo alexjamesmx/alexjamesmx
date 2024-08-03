@@ -1,11 +1,10 @@
 <h1 align="center"> 
 Hey I'm Alex 👾
 </h1>
---------------------
 
 <div align="left">
 
-  * 🌍  Mexico
+* 🌍  Mexico
 * ➡️  [Media and portfolio](https://alexjamesmx.dev/)
 * 🤝  Open to collaborate   
 
