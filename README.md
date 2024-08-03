@@ -12,16 +12,26 @@ Hey I'm Alex 👾
 
 </div>
 
-<img align="right" height="150" src="https://c.tenor.com/NVx58dJDqrAAAAAC/geometry-dash.gif" />
-
-<div aling="left">
-  
-[![YouTube](https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge)](https://www.youtube.com/channel/UCJlUWE-Q9a_X2EZgpyazF5A)
-[![Instagram](https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge)](https://www.instagram.com/alexjamesmx)
-[![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:aledev.mx@gmail.com)
-
-
-
+<table>
+  <tr>
+    <td>
+      <div align="left">
+        <a href="https://www.youtube.com/channel/UCJlUWE-Q9a_X2EZgpyazF5A">
+          <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" />
+        </a>
+        <a href="https://www.instagram.com/alexjamesmx">
+          <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" />
+        </a>
+        <a href="mailto:aledev.mx@gmail.com">
+          <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" />
+        </a>
+      </div>
+    </td>
+    <td>
+      <img align="right" height="150" src="https://c.tenor.com/NVx58dJDqrAAAAAC/geometry-dash.gif" />
+    </td>
+  </tr>
+</table>
 </div>
 
 <div align="left">
