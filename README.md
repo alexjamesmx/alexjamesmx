@@ -2,13 +2,7 @@
 Hey I'm Alex 👾
 </h1>
 
-<div align="center">
-🌍  Mexico
-  
-* ➡️ [Media and portfolio](https://alexjamesmx.dev/)     
-
-* 🤝  Open to collaborate   
-</div>
+🌍  Mexico * ➡️ [Media and portfolio](https://alexjamesmx.dev/) * 🤝  Open to collaborate   
 
 [Media and portfolio](https://alexjamesmx.dev/)
 
