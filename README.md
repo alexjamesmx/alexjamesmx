@@ -14,8 +14,8 @@ Hey I'm Alex 👾
 
 </div>
 
-<div align="center">
-<h2 align="center">
+<div align="left">
+<h2 align="left">
 Programming languages
 </h2>
 
@@ -33,9 +33,9 @@ Programming languages
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
 </div>
 
-<div align="center">
+<div align="left">
   
-  <h2 align="center">
+  <h2 align="left">
    Frameworks
   </h2>
 
