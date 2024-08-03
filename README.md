@@ -44,7 +44,6 @@ Hey I'm Alex 👾
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nexjs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo"  />
   <img src="https://github.com/devicons/devicon/blob/master/icons/codeigniter/codeigniter-plain.svg" height="30" alt="codeigniter logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blade/blade-original.svg" height="30" alt="blade logo"  />
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo"  />
 </div>
 ### Badges
