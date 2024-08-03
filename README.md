@@ -10,12 +10,6 @@ Hey I'm Alex 👾
 
 🤝  Open to collaborate   
 
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
-
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
 <div align="left">
   
 [![YouTube](https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge)](https://www.youtube.com/channel/UCcoEuHR-gnDLqAgN4w27WOw)
