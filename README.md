@@ -58,7 +58,7 @@ Programming languages
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
 </div>
 
-<div align="left">
+<div align="center">
   
   <h2 align="center">
    Frameworks
@@ -81,7 +81,7 @@ Programming languages
 </div>
 
 <h2>My GitHub Stats</h2>
-<div align="center"> 
+<div align="left"> 
 
 
 <a href="http://www.github.com/alexjamesmx"><img src="https://github-readme-stats.vercel.app/api?username=alexjamesmx&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=6366f1&bg_color=22272e&hide_border=true&show_icons=true" alt="alexjamesmx's GitHub stats" /></a>
