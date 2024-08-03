@@ -31,7 +31,7 @@ Hey I'm Alex 👾
       </div>
     </td>
     <td align="right">
-      <img align="right" height="150" src="https://c.tenor.com/NVx58dJDqrAAAAAC/geometry-dash.gif" />
+      <img align="right" height="150" src="./geometry-dash.gif" />
     </td>
   </tr>
 </table>
